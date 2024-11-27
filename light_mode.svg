@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?><svg xmlns="http://www.w3.org/2000/svg" font-family="Andale Mono,AndaleMono,Consolas,monospace" width="975px" height="550px" font-size="16px">
+<style>
+.keyColor {fill: #d2691e;} /* Darker shade for better contrast */
+.valueColor {fill: #4682b4;} /* Darker shade for better contrast */
+.addColor {fill: #228b22;} /* Darker shade for better contrast */
+.delColor {fill: #b22222;} /* Darker shade for better contrast */
+.commentColor {fill: #696969;} /* Darker shade for better contrast */
+text, tspan {white-space: pre;}
+</style>
+
+<rect width="970px" height="530px" fill="#161b22" rx="15"/>
+
+<text x="15" y="30" fill="#c9d1d9" class="ascii">
+<tspan x="15" y="30">                                                                                                                                                     </tspan>
+<tspan x="15" y="50">                            0  00 00 5                00     40            0 0 3 5     0 0        0 0   003   2000  0       8   00                   </tspan>
+<tspan x="15" y="70">                  1 0     0 0  00460                    0    1 03          0 0         0 0        0 0   005     00060           00                   </tspan>
+<tspan x="15" y="90">                   7        1  000 0                          0 1          0 0 4       0 0        0 0   009   44 000            00                   </tspan>
+<tspan x="15" y="110">                    7          000 00                          2     47    030  0      8 1        678   800  0000 000           00                   </tspan>
+<tspan x="15" y="130">                               400 000                          000000000000000000                      800  00 000001          00                   </tspan>
+<tspan x="15" y="150">                                000000                        30000003000000000000004                    00  900400009          00                   </tspan>
+<tspan x="15" y="170">                                000000                     000000               000063000                00  100    66          00                   </tspan>
+<tspan x="15" y="190">                                  21                    5000003                      7   85              00   00     1          00                   </tspan>
+<tspan x="15" y="210">                                                      800007                             600             00   00                00                   </tspan>
+<tspan x="15" y="230">                                                    40000          40001  600567           00            00   001               00                   </tspan>
+<tspan x="15" y="250">                                                   6007           0000   8030   700000      09           00   003               00                   </tspan>
+<tspan x="15" y="270">                                                   00          9060  0 700 700 0000000 0    0000         00   001               00                   </tspan>
+<tspan x="15" y="290">         7                 8                      6604     13 1   540000  0000000000000050    000 0 0    00   003               00                   </tspan>
+<tspan x="15" y="310">                  1 1     0 0      0 0           000 0 09    00000000000000000000000000000     00 0 0    00   000               00                   </tspan>
+<tspan x="15" y="330">         9        6 0     0 0      0 0          600 95 00000000000000000000000000000000000     00 0 0    00   0000              00                   </tspan>
+<tspan x="15" y="350">                   8       7       4 2          00    000000000000     80000517  7     0000    00 0 8    00   000 4             00                   </tspan>
+<tspan x="15" y="370">                    0                           00   000000004         77               0000   00        00   000               00                   </tspan>
+<tspan x="15" y="390">                                               500   000   0000000000       800000000000 0000  00        00   000               00                   </tspan>
+<tspan x="15" y="410">                                               802   00 0000000000000000  00000000001000000000 00        60   600               00                   </tspan>
+<tspan x="15" y="430">                                               007  000000 000005  000000 00  0000000000 0 000 90        60   300               00                   </tspan>
+<tspan x="15" y="450">                                               206  00 000000   0000  000  000000 00000 000000  8        50    00               00                   </tspan>
+<tspan x="15" y="470">                                                00  00 00 00000006000 0001   90000  10000 00000000       20    00               00                   </tspan>
+<tspan x="15" y="490">                                                000 0000100 000000000 000     000000000000  0000000      20    00               00                   </tspan>
+<tspan x="15" y="510">                                                40000009000000000  40 0002     00000000000  00000009     60   300               00                   </tspan>
+<tspan x="15" y="530">        6                 2                    4  000001100000000000  0002 12   8024000006  000070001    001  000               00                   </tspan>
+<tspan x="15" y="550">         7                 0       4 3         0   40  1  2000005500  0000000            5  5 0 00000    302  000               00                   </tspan>
+<tspan x="15" y="570">                  9 0     0 0      0 0        04   30  4063      0007 00000 4  1         2  4 0 000 0     05   008              00                   </tspan>
+<tspan x="15" y="590">         7  7     9 95    0 0      0 0        50 0 4 0000       0000  0002 00  4         3    8  00 0 7   06   000              00                   </tspan>
+<tspan x="15" y="610">           0 3     0       7       8 5         0 00   0003    4000720000            00  49    6 40090     09   00098            00                   </tspan>
+<tspan x="15" y="630">            2       83                         0000    0008   000000000000000050000  1     7 11 0000      09   000              00                   </tspan>
+<tspan x="15" y="650">                                               00700   00000  6000900         809          00000009       08   000              00                   </tspan>
+<tspan x="15" y="670">                                                0000029090003 000000000000579000005        0000005        00   000              00                   </tspan>
+<tspan x="15" y="690">                                                5000 4006 000703 000000      0008         000             00   000              00                   </tspan>
+<tspan x="15" y="710"> 0003                                                 000040000    7                      000             00   000              00                   </tspan>
+<tspan x="15" y="730"> 0009                                                 60000000      7                    000              00   500              00                   </tspan>
+<tspan x="15" y="750">   60                                                  9 7000007  000                 76  00              00    00              00                   </tspan>
+<tspan x="15" y="770">  300                   70                             00  00000000000              500  1004      2      00  5000              00                   </tspan>
+<tspan x="15" y="790">   6  5 0                 02       63                 70 0      80 0007          0000  00000      0 0     00  0300              00                   </tspan>
+<tspan x="15" y="810">   5                     0 00      0 9               900  00620    000000000000000   000 000      0 0     90  9000              00                   </tspan>
+<tspan x="15" y="830">   9       2      6 0     0 0      0 0                200000000001    800000000   00005  000      0 0     20    0077            00                   </tspan>
+<tspan x="15" y="850">   0      5 7     4       490      0 0               00000040010000000005280000000003     00      0 0 6    0    000             00                   </tspan>
+<tspan x="15" y="870">   0       06      06      6       000             000000 0081  0000000000000000          00097   000      0    8000            00                   </tspan>
+<tspan x="15" y="890">   06 207  204      000            002         900000 00002009  7006   5452             900000005 900   0  5    000             00                   </tspan>
+<tspan x="15" y="910">   40000086423222317                       768083     00000 0004                       00000                    000             00                   </tspan>
+<tspan x="15" y="930">    20000009669664223337                7337           00 00  009                    000 000                    900             00                   </tspan>
+<tspan x="15" y="950">                                                       000 000  00000              0007 000                      00             00                   </tspan>
+<tspan x="15" y="970"> 00000000000000000000000008                            000  9003  900000        00000   000                      000            00                   </tspan>
+<tspan x="15" y="990"> 00000000000000000003  60000008                         000   00     0000    60000 15   000                      000000         00                   </tspan>
+<tspan x="15" y="1010">                00000000000                             000 4 00        001 0000 60000 9000                       000000000     00                   </tspan>
+<tspan x="15" y="1030">            6000000000                                   000 000        00 000   00505 000                           700000000  00                   </tspan>
+<tspan x="15" y="1050">           000000                                        000 000        00000    00 0 0000                               7000000000                  </tspan>
+<tspan x="15" y="1070">          000                                            900 200        00000    0050 0001                                   0000000                 </tspan>
+<tspan x="15" y="1090">         7003                                             000 00        00200    060 8000                                       00000                </tspan>
+<tspan x="15" y="1110">         000                                              00020      1   0001    0 2 0000                                         0001               </tspan>
+<tspan x="15" y="1130">       0000                                               00000           00         0000                                          000               </tspan>
+<tspan x="15" y="1150"> 500000000                                                000000       0 70          000                                           2000              </tspan>
+<tspan x="15" y="1170"> 000   00        10    000     570         2 4        3 7 000 00      00 0         7 000 41                            170        7  000             </tspan>
+<tspan x="15" y="1190"> 00004 00          0   0 0     0 0         0 0        0 0  00700      0 00          5000  01             607           0 0         8 000             </tspan>
+<tspan x="15" y="1210"> 000 0000         0 0  0 0     0 0         0 0        0 0  00000      0 0           0002 5 0             0 0    13     0 0          0 000            </tspan>
+<tspan x="15" y="1230"> 00000003          0   0 0     0 0         0 0        0 0  00000     0 0            000   9 0            0 07   070    0 0          013000           </tspan>
+<tspan x="15" y="1250"> 1 000              07 0 0     0 0         8 4        8 6   0000    9940           3000   2               026   0 0    1 2           57000           </tspan>
+<tspan x="15" y="1270">   00                  00                                   0000    0 0       7    0000                    8                           000           </tspan>
+<tspan x="15" y="1290">  000                                                       0000    0 0       5    000                                                  000          </tspan>
+<tspan x="15" y="1310">  00   000                                                  0000    4 0       2    000                                                  000          </tspan>
+<tspan x="15" y="1330"> 000   0000              7                                   000             63   0000              9                                    000         </tspan>
+<tspan x="15" y="1350"> 00    0900                                                  0000            02   000               0                           4        000         </tspan>
+<tspan x="15" y="1370"> 05   20 00                                                  0000            02   000               5 2                  0               000         </tspan>
+<tspan x="15" y="1390"> 0   00000                                                    000            01  0000                                   1                0005        </tspan>
+<tspan x="15" y="1410"> 0      0                                                     000            0   000                                                      000        </tspan>
+<tspan x="15" y="1430"> 3   00                                                       000            0   000                                                      000        </tspan>
+<tspan x="15" y="1450">                                                              000            0   000                                                      000        </tspan>
+<tspan x="15" y="1470">                                                              5000           0  000                                                       000        </tspan>
+<tspan x="15" y="1490">                                                               000           8  000                                                        000       </tspan>
+<tspan x="15" y="1510">                                                               000          25  000                                                        000       </tspan>
+<tspan x="15" y="1530">                                                               000          11 000                                                         000       </tspan>
+</text>
+
+<text x="370" y="30" fill="#c9d1d9">
+<tspan x="370" y="30">adarwich2010@gmail.com</tspan>
+<tspan x="370" y="50">——————</tspan>
+<tspan x="370" y="70" class="keyColor">OS</tspan>: <tspan class="valueColor">Human</t>
+<tspan x="370" y="90" class="keyColor">Uptime</tspan>: <tspan class="valueColor">PLACEHOLDER_AGE</tspan>
+<tspan x="370" y="110" class="keyColor">Host</tspan>: <tspan class="valueColor">University of Akron</t><tspan class="commentColor"> #UA</t>
+<tspan x="370" y="130" class="keyColor">Previous Host</tspan>: <tspan class="valueColor">The Ohio State University</t><tspan class="commentColor"> #OSU</t>
+<tspan x="370" y="150" class="keyColor">Master's of Science</tspan>: <tspan class="valueColor">Computer Science with a focus in Data Analytics</t><tspan class="commentColor"> #DA</t>
+<tspan x="370" y="150" class="keyColor">Bachelor's of Science</tspan>: <tspan class="valueColor">Computer Science</t><tspan class="commentColor"> #CS</t>
+<tspan x="370" y="170" class="keyColor">Languages</tspan>.<tspan class="keyColor">Programming</tspan>: <tspan class="valueColor">Typescript, Python, C++, Java</t>
+<tspan x="370" y="190" class="keyColor">Languages</tspan>.<tspan class="keyColor">Computer</tspan>: <tspan class="valueColor">HTML, CSS, JSON, XML, Markdown</t>
+<tspan x="370" y="210" class="keyColor">Languages</tspan>.<tspan class="keyColor">Real</tspan>: <tspan class="valueColor">English, Arabic</t>
+<tspan x="370" y="270" class="keyColor">Hobbies</tspan>.<tspan class="keyColor">Software</tspan>: <tspan class="valueColor">League of Legends, Star Wars</t>
+<tspan x="370" y="290" class="keyColor">Hobbies</tspan>.<tspan class="keyColor">Hardware</tspan>: <tspan class="valueColor">Working out, Barbequing</t>
+<tspan x="370" y="330" class="keyColor">Contact</tspan>:
+<tspan x="370" y="350">——————</tspan>
+<tspan x="370" y="370" class="keyColor">Email</tspan>: <tspan class="valueColor">adarwich2010@gmail.com</t>
+<tspan x="370" y="390" class="keyColor">LinkedIn</tspan>: <tspan class="valueColor">Ahmed Darwich</t>
+<tspan x="370" y="410" class="keyColor">Discord</tspan>: <tspan class="valueColor">sarokhan</t>
+<tspan x="370" y="450" class="keyColor">GitHub Stats</tspan>:
+<tspan x="370" y="470">——————</tspan>
+<tspan x="370" y="490" class="keyColor">Repos</tspan>: <tspan class="valueColor">95</tspan> {<tspan class="keyColor">Contributed</tspan>: <tspan class="valueColor">133</tspan>}  | <tspan class="keyColor">Commmits</tspan>: <tspan class="valueColor">2,078  </tspan>| <tspan class="keyColor">Stars</tspan>: <tspan class="valueColor">284</tspan>
+<tspan x="370" y="510" class="keyColor">Followers</tspan>: <tspan class="valueColor">146 </tspan>| <tspan class="keyColor">Lines of Code</tspan>: <tspan class="valueColor">441,817</tspan> (<tspan class="addColor">515,733++</tspan>, <tspan class="delColor">73,916--</tspan>)
+</text>
+
+</svg>
