@@ -81,11 +81,6 @@
     <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=darwich6&layout=compact&langs_count=8&theme=nord&hide_border=true"/>
   </a>
 
-  <!-- Streak Stats -->
-  <a href="https://github.com/darwich6">
-    <img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=darwich6&theme=nord&hide_border=true"/>
-  </a>
-
   <!-- Profile Views Counter -->
   <img src="https://komarev.com/ghpvc/?username=darwich6&style=for-the-badge&color=81A1C1" alt="Profile Views"/>
 </div>
