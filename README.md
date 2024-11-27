@@ -2,164 +2,16 @@
 <div style="background-color: #2E3440; padding: 10px; border-radius: 5px;">
 <pre style="margin: 0; color: #D8DEE9;">
 ░▒▓█▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀█▓▒░
-░▒▓█  ＳＡＲＯＫＨＡＮ  █▓▒░
+░▒▓  ＳＡＲＯＫＨＡＮ  █▓▒░
 ░▒▓█▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄█▓▒░
 </pre>
 </div>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=monospace&duration=3000&pause=1000&color=D8DEE9&center=true&vCenter=true&random=false&width=435&lines=⚡+𝔻𝕖𝕧𝕖𝕝𝕠𝕡𝕖𝕣+|+Dreamer+|+Creator+⚡)](https://git.io/typing-svg)
 </div>
 
-<div align="center">
-<div class="typewriter" style="font-family: monospace;">
-   ⚡ 𝔻𝕖𝕧𝕖𝕝𝕠𝕡𝕖𝕣 | Dreamer | Creator ⚡
-</div>
-</div>
-
-<style>
-.typewriter {
-  overflow: hidden;
-  border-right: .15em solid orange;
-  white-space: nowrap;
-  margin: 0 auto;
-  letter-spacing: .15em;
-  animation: 
-    typing 3.5s steps(40, end),
-    blink-caret .75s step-end infinite;
-}
-
-@keyframes typing {
-  from { width: 0 }
-  to { width: 100% }
-}
-
-@keyframes blink-caret {
-  from, to { border-color: transparent }
-  50% { border-color: orange; }
-}
-</style>
-
-## About Me:
-
-<div class="terminal-container">
-  <div class="terminal-line">darwich@ubuntu:~$ <span class="command">whoami</span></div>
-  <div class="terminal-output">Ahmed Darwich - Software Engineer @ <a href="https://github.com/manifold-inc">Manifold Labs</a></div>
-  
-  <div class="terminal-output">darwich@ubuntu:~$ <span class="command">cat /var/log/career.txt</span></div>
-  <div class="terminal-output">───────────────────────────────────────────────────────</div>
-  <div class="terminal-output">💼 WORK EXPERIENCE</div>
-  <div class="terminal-output">───────────────────────────────────────────────────────</div>
-  <div class="terminal-output">[INFO] Current Status: Employed</div>
-  <div class="terminal-output">[INFO] Fetching work records...</div>
-  <div class="terminal-output">🛠️ Software Engineer</div>
-  <div class="terminal-output">│ └─ Company: Manifold Labs</div>
-  <div class="terminal-output">│ └─ Duration: 2024 - Present</div>
-  <div class="terminal-output">│ └─ Role: Developing scalable web applications</div>
-  <div class="terminal-output">│</div>
-  <div class="terminal-output">🛠️ Business Analyst 3</div>
-  <div class="terminal-output">└─ Company: Huntington National Bank</div>
-  <div class="terminal-output">└─ Duration: 2023</div>
-  <div class="terminal-output">└─ Role: Verified data quality and integrity throughout TCF acquisition</div>
-  
-  <div class="terminal-output">darwich@ubuntu:~$ <span class="command">cat /var/log/education.txt</span></div>
-  <div class="terminal-output">───────────────────────────────────────────────────────</div>
-  <div class="terminal-output">📚 EDUCATION HISTORY</div>
-  <div class="terminal-output">───────────────────────────────────────────────────────</div>
-  <div class="terminal-output">[INFO] Current Status: Graduated</div>
-  <div class="terminal-output">[INFO] Fetching education records...</div>
-  <div class="terminal-output">🎓 M.S. Computer Science</div>
-  <div class="terminal-output">│ └─ Institution: University of Akron</div>
-  <div class="terminal-output">│ └─ Status: Completed 2023</div>
-  <div class="terminal-output">│ └─ Research: Data Analytics</div>
-  <div class="terminal-output">│</div>
-  <div class="terminal-output">🎓 B.S. Computer Science</div>
-  <div class="terminal-output">└─ Institution: University of Akron</div>
-  <div class="terminal-output">└─ Status: Completed 2022</div>
-  <div class="terminal-output">darwich@ubuntu:~$ <span class="cursor">█</span></div>
-</div>
-
-<style>
-.terminal-container {
-  background: #282a36;
-  padding: 20px;
-  border-radius: 5px;
-  font-family: 'Courier New', monospace;
-  color: #f8f8f2;
-  line-height: 1.5;
-}
-
-.terminal-line {
-  white-space: nowrap;
-  overflow: hidden;
-  animation: typing 2s steps(50, end);
-}
-
-.terminal-output {
-  white-space: nowrap;
-  overflow: hidden;
-  animation: typing 1s steps(50, end);
-  animation-delay: calc(var(--line-index, 0) * 100ms + 2s);
-  opacity: 0;
-  animation-fill-mode: forwards;
-}
-
-.command {
-  color: #50fa7b;
-}
-
-.cursor {
-  animation: blink 1s step-end infinite;
-}
-
-@keyframes typing {
-  from {
-    width: 0;
-    opacity: 0;
-  }
-  to {
-    width: 100%;
-    opacity: 1;
-  }
-}
-
-@keyframes blink {
-  50% { opacity: 0; }
-}
-
-/* Apply sequential delays to terminal outputs in correct order */
-.terminal-output:nth-child(2) { --line-index: 1; }  /* whoami output */
-.terminal-output:nth-child(3) { --line-index: 2; }  /* separator line */
-.terminal-output:nth-child(4) { --line-index: 3; }  /* WORK EXPERIENCE */
-.terminal-output:nth-child(5) { --line-index: 4; }  /* separator line */
-.terminal-output:nth-child(6) { --line-index: 5; }  /* Current Status */
-.terminal-output:nth-child(7) { --line-index: 6; }  /* Fetching records */
-.terminal-output:nth-child(8) { --line-index: 7; }  /* Software Engineer */
-.terminal-output:nth-child(9) { --line-index: 8; }  /* Company: Manifold */
-.terminal-output:nth-child(10) { --line-index: 9; } /* Duration */
-.terminal-output:nth-child(11) { --line-index: 10; } /* Role */
-.terminal-output:nth-child(12) { --line-index: 11; } /* Empty line */
-.terminal-output:nth-child(13) { --line-index: 12; } /* Business Analyst */
-.terminal-output:nth-child(14) { --line-index: 13; } /* Company: Huntington */
-.terminal-output:nth-child(15) { --line-index: 14; } /* Duration */
-.terminal-output:nth-child(16) { --line-index: 15; } /* Role */
-.terminal-output:nth-child(17) { --line-index: 16; } /* Education command */
-.terminal-output:nth-child(18) { --line-index: 17; } /* separator line */
-.terminal-output:nth-child(19) { --line-index: 18; } /* EDUCATION HISTORY */
-.terminal-output:nth-child(20) { --line-index: 19; } /* separator line */
-.terminal-output:nth-child(21) { --line-index: 20; } /* Current Status */
-.terminal-output:nth-child(22) { --line-index: 21; } /* Fetching records */
-.terminal-output:nth-child(23) { --line-index: 22; } /* M.S. Title */
-.terminal-output:nth-child(24) { --line-index: 23; } /* Institution */
-.terminal-output:nth-child(25) { --line-index: 24; } /* Status */
-.terminal-output:nth-child(26) { --line-index: 25; } /* Research */
-.terminal-output:nth-child(27) { --line-index: 26; } /* Empty line */
-.terminal-output:nth-child(28) { --line-index: 27; } /* B.S. Title */
-.terminal-output:nth-child(29) { --line-index: 28; } /* Institution */
-.terminal-output:nth-child(30) { --line-index: 29; } /* Status */
-.terminal-output:nth-child(31) { --line-index: 30; } /* BS Duration */
-.terminal-output:nth-child(32) { --line-index: 31; } /* Empty line */
-.terminal-output:nth-child(33) { --line-index: 32; } /* Cursor */
-.terminal-output:nth-child(34) { --line-index: 34; } /* Cursor */
-</style>
-
+## About Me
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Courier+New&duration=1000&pause=24&color=0FF7F1&multiline=true&repeat=false&width=1000&height=1000&lines=darwich%40ubuntu%3A~%24+whoami;Ahmed+Darwich+-+Software+Engineer%2C+Manifold+Labs;------------------------------------------------------;darwich%40ubuntu%3A~%24++cat+%2Fvar%2Flog%2Fcareer.txt;------------------------------------------------------;%F0%9F%92%BC+WORK+EXPERIENCE;------------------------------------------------------;%5BINFO%5D+Current+Status%3A+Employed;%5BINFO%5D+Fetching+work+records...;%F0%9F%9B%A0%EF%B8%8F+Software+Engineer;%E2%94%82+%E2%94%94%E2%94%80+Company%3A+Manifold+Labs;%E2%94%82+%E2%94%94%E2%94%80+Duration%3A+2024+-+Present;%E2%94%82+%E2%94%94%E2%94%80+Role%3A+Developing+scalable+web+applications;%E2%94%82+;%F0%9F%9B%A0%EF%B8%8F+Business+Analyst+3;%E2%94%82+%E2%94%94%E2%94%80+Company%3A+Huntington+National+Bank;%E2%94%82+%E2%94%94%E2%94%80+Duration%3A+2020-2023;%E2%94%82+%E2%94%94%E2%94%80+Role%3A+Verified+data+quality+and+integrity+throughout+TCF+acquisition;+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++;darwich%40ubuntu%3A~%24+cat+%2Fvar%2Flog%2Feducation.txt;------------------------------------------------------;%F0%9F%93%9A+EDUCATION+HISTORY;------------------------------------------------------;%5BINFO%5D+Current+Status%3A+Graduated;%5BINFO%5D+Fetching+education+records...;%F0%9F%8E%93+M.S.+Computer+Science;%E2%94%82+%E2%94%94%E2%94%80+Institution%3A+University+of+Akron;%E2%94%82+%E2%94%94%E2%94%80+Status%3A+Completed+2023;%E2%94%82+%E2%94%94%E2%94%80+Research%3A+Data+Analytics;%E2%94%82;%F0%9F%8E%93+B.S.+Computer+Science;%E2%94%82+%E2%94%94%E2%94%80+Institution%3A+University+of+Akron;%7C+%E2%94%94%E2%94%80+Status%3A+Completed+2022;darwich%40ubuntu%3A~%24+%E2%96%88)](https://git.io/typing-svg)
 ## Technical Arsenal
 
 <div align="center">
